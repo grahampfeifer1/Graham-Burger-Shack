@@ -216,7 +216,7 @@ footer img {
     .hero {
         text-align: left;
         height: 80vh;
-        background: url(/assets/hero.jpg) bottom center no-repeat;
+        background: url(./assets/hero.jpg) bottom center no-repeat;
         background-size: 90em;
     }
 }
